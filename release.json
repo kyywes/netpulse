@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "files": [
+    {
+      "name": "netpulsecore.py",
+      "url": "https://raw.githubusercontent.com/kyywes/netpulse/main/netpulsecore.py"
+    },
+    {
+      "name": "netpulsegui.py",
+      "url": "https://raw.githubusercontent.com/kyywes/netpulse/main/netpulsegui.py"
+    },
+    {
+      "name": "netpulsetheme.py",
+      "url": "https://raw.githubusercontent.com/kyywes/netpulse/main/netpulsetheme.py"
+    }
+  ]
+}
