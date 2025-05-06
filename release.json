@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "files": [
+    {
+      "name": "netpulsecore.py",
+      "url": "https://raw.githubusercontent.com/kyywes/netpulse/refs/heads/main/netpulse.py?token=GHSAT0AAAAAADDMIMH64ML53XTPZWMKNS6U2AZYOHQ"
+    },
+    {
+      "name": "netpulsegui.py",
+      "url": "https://raw.githubusercontent.com/kyywes/netpulse/refs/heads/main/netpulsegui.py?token=GHSAT0AAAAAADDMIMH64NZBXAOQ4TBFCEKM2AZYQWQ"
+    },
+    {
+      "name": "netpulsetheme.py",
+      "url": "https://raw.githubusercontent.com/kyywes/netpulse/refs/heads/main/netpulsetheme.py?token=GHSAT0AAAAAADDMIMH7PJPSOOXFKOWXOSYU2AZYS6A"
+    }
+  ]
+}
