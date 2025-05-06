@@ -68,7 +68,7 @@
  [],
  False,
  False,
- 1746521744,
+ 1746542405,
  [('runw.exe',
    'c:\\Users\\Fabrizio.Cerchia\\netpulse\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
