@@ -3,15 +3,15 @@
   "files": [
     {
       "name": "netpulsecore.py",
-      "url": "https://raw.githubusercontent.com/kyywes/netpulse/refs/heads/main/netpulse.py?token=GHSAT0AAAAAADDMIMH64ML53XTPZWMKNS6U2AZYOHQ"
+      "url": "https://raw.githubusercontent.com/kyywes/netpulse/main/netpulsecore.py"
     },
     {
       "name": "netpulsegui.py",
-      "url": "https://raw.githubusercontent.com/kyywes/netpulse/refs/heads/main/netpulsegui.py?token=GHSAT0AAAAAADDMIMH64NZBXAOQ4TBFCEKM2AZYQWQ"
+      "url": "https://raw.githubusercontent.com/kyywes/netpulse/main/netpulsegui.py"
     },
     {
       "name": "netpulsetheme.py",
-      "url": "https://raw.githubusercontent.com/kyywes/netpulse/refs/heads/main/netpulsetheme.py?token=GHSAT0AAAAAADDMIMH7PJPSOOXFKOWXOSYU2AZYS6A"
+      "url": "https://raw.githubusercontent.com/kyywes/netpulse/main/netpulsetheme.py"
     }
   ]
 }
